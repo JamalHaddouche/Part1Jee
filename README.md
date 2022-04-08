@@ -1,4 +1,6 @@
 # Part1Jee
+dans l'imlèmentation de l'interface IMetier on a un setter qui permet de faire l'injection des dépendances
+
 Parte 1 : 
 dans la premiere implèmentation de l'interface IDao  retourne une valeurs aléatoirement
 dans la 2éme implementation de l'interface IDao nous retournons une valeurs d'un capteur
