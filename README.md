@@ -1,5 +1,5 @@
 # Part1Jee
-dans l'imlèmentation de l'interface IMetier on a un setter qui permet de faire l'injection des dépendances
+Dans l'implèmentation de l'interface IMetier on a un setter qui permet de faire l'injection des dépendances
 
 Parte 1 : 
 dans la premiere implèmentation de l'interface IDao  retourne une valeurs aléatoirement
