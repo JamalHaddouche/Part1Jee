@@ -14,7 +14,7 @@ d'une manière statique un objet de l'une des implèmentations ce qui mets la ma
 
 ###################
 
-pour éviter le problème de modifier chaque fois dans le code est instancié des objets de manière dynamique  comme il est introduit dans le fichier Presentation 2 ,si nous voulons appelé n'import quel implémentations  il suffit de changer dans le fichier config.txt et de mettre dans la 1er ligne la racine de l'iumplèmentation corréspondant
+pour éviter le problème de modifier chaque fois dans le code il faut  instancier des objets de manière dynamique  comme il est introduit dans le fichier Presentation 2 ,si nous voulons appelé n'import quel implémentations  il suffit de changer dans le fichier config.txt et de mettre dans la 1er ligne la racine de l'iumplèmentation corréspondant
 voici les résultat données après chaque modification :
 dans la 1er ligne de fichier config text ona : dao.DaoImp
 
